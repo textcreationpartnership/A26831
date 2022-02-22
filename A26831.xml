@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Muggleton's last will &amp; testament (who died Novemb. 30, 1679) being an absolute and real recantation of his former notorious blasphemous doctrine : together with several Christian instructions in order to refrain the same, shewing the eternal woe</title>
+            <author>Muggleton, Lodowick, 1609-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26831</idno>
+            <idno type="STC">Wing B115</idno>
+            <idno type="STC">ESTC R3265</idno>
+            <idno type="EEBO-CITATION">12310461</idno>
+            <idno type="OCLC">ocm 12310461</idno>
+            <idno type="VID">59352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 163:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Muggleton's last will &amp; testament (who died Novemb. 30, 1679) being an absolute and real recantation of his former notorious blasphemous doctrine : together with several Christian instructions in order to refrain the same, shewing the eternal woe</title>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter to reader signed: J.B.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muggleton, Lodowick, 1609-1698.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59352:1"/>
+            <pb facs="tcp:59352:1" rendition="simple:additions"/>
+            <p>Muggleton's <hi>Laſt Will &amp; Teſtament,</hi> (Who died <hi>Novemb.</hi> 30. 1679.) Being
+an Abſolute and Real RECANTATION Of his former Notorious Blaſphemous Doctrine.</p>
+            <p>Together with ſeveral Chriſtian Inſtructions in order to refrain the ſame, ſhewing the
+Eternal Woe and Damnable Miſery of all ſuch who offer to ſeduce poor Ignorant Souls, and the
+danger which infallibly accompanies ſuch kind of <hi>Falſe Prophets,</hi> of which he accounts
+himſelf the chief.</p>
+            <p>Publiſhed for a Caution to all ignorant and ſeduced People.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Mat. 23.17.</hi>
+                  </bibl> He which hath ſinned, let him ſin no more, leſt a
+worſe thing come upon him.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59352:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Conceive this a Subject that may confute many, reduce ſeveral, and reclaim all from
+the fooliſh, ſottiſh, and Brutiſh Opinion of being a <hi>Muggletonian;</hi> you ſee here
+the lamentable and deplorable end of the Original of the Copy by which they write: If thou
+receiveſt no Inſtruction by the ſame, blame thy ſelf, and not me; for here is not only an
+in<g ref="char:EOLhyphen"/>comparable Subject, but excellent Matter, ſufficient to re<g ref="char:EOLhyphen"/>duce the moſt brutiſh of
+Sinners. If it reclaim thee, thank the Teſtator; if not, thou hast just cauſe to fear his
+unhappy end: which that God may preſerve us from, ſhall be the fervent prayer of,</p>
+            <closer>
+               <signed>Thy moſt Cordial Friend, J. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="will">
+            <pb n="1" facs="tcp:59352:2"/>
+            <head>THE Laſt Will and Teſtament OF <hi>Lodowick Muggleton,</hi> Who died in the
+<hi>Marſhalſea</hi> upon Sunday <hi>Novemb.</hi> 30. 1679.</head>
+            <p>ANd muſt I then go to the Tribunal of thoſe three exem<g ref="char:EOLhyphen"/>plary Judges <hi>Eachus, Minos</hi>
+and <hi>Radamanthus?</hi> Is there an infallible neceſſity I muſt leave and forſake
+Religion for a Pillory, a Pillory for a Gaol, and a Gaol for the Rewards of my Folly, which I now
+(though too late) perceive will be Eternal Damnation? Was his Holineſs the Pope the firſt
+infuſer of theſe Principles into me, and yet be ſo notoriouſly unkind, that though he keeps
+the Keys of Heaven, yet not to let me in? If theſe be the Wages wherewith he pays his faithful
+Servants, what think you can ſuch expect who have been much more neg<g ref="char:EOLhyphen"/>ligent in their duty, than
+my ſelf has been? But although I find my ſelf a man loſt to all Eternity, yet will I give the
+World to underſtand, I have more common Honeſty and Chriſtianity in me, than to die after the
+Jeſuitical mode, by affirming I am as <hi>Innocent as the Child that is unborn,</hi> of the Plots
+now on foot: Therefore let them know, that whatever kindneſs the Popes In<g ref="char:EOLhyphen"/>dulgences, Pardons, and
+their own feigned Merits may promiſe
+<pb n="2" facs="tcp:59352:3"/>
+them, if the words of a dying man are to be believed, they are all vain and frivolous pretences,
+only to delude the ſimple, and cheat the ignorant.</p>
+            <p>That they have daily Plotted, and do the like ſtill, againſt the publick good and intereſt
+both of King and Kingdom, is not un<g ref="char:EOLhyphen"/>known to all rational men: But in reſpect the novelty of my
+curſed Principles, the ſtrangeneſs of my damnable Doctrine, and the whimſical deluſions
+of my pretended Religion, may hardly ever re-gain credit amongſt the more ſolid people, I
+ſhall therefore conjure you, by the words of a dying man, to believe what I ſhall ſay is
+infallibly true, and more ſincere and real than any the laſt words which were ever aſſerted
+by a dying Jeſuit. I am now at my laſt Gaſp, and could you but ſee, as I now do, the
+Felicity of that Eternal happineſs I have through Blaſphemy and Hereſie ſlighted, and the
+unſpeakable miſery of that Eternal damnation which attends me for the ſame, you would
+certainly not only pity my condition, but give credit to my laſt dying words. Heaven and Hell
+were once offer'd to my own free choice, whereas I, like a damned Wretch as I am, have refuſed
+the former to embrace the latter; and all this, becauſe I would rather rely upon my own Merits
+than my Saviours; he hath plainly told me he is the door, by which, and no other, we muſt enter;
+but I durſt not believe him, but ſought out inventions of my own, and thought to climb like a
+Thief and a Robber into that bleſſed Fold. And now let me tell ye all, but more particularly
+thoſe whom my accurſed Principles have perverted from the Truth, that this, and no other, was
+the main ſcope of my deſign; I had theſe con<g ref="char:EOLhyphen"/>ceptions in my head, that let me live never ſo
+much like a Re<g ref="char:EOLhyphen"/>probate all my life, and contrary to my knowledge, which I am ſenſible I did,
+yet when I came upon my death-bed, if I had but ſo much time as to ſay, <hi>Lord have mercy on
+my Soul, and forgive me all former miſcarriages,</hi> I never queſtioned my
+<pb n="3" facs="tcp:59352:3"/>
+ſalvation. This being a thing which I ſuppoſe may be re<g ref="char:EOLhyphen"/>ceived as a general opinion by more
+than my ſelf, I ſhall en<g ref="char:EOLhyphen"/>deavour to ſhew them the folly of the ſame.</p>
+            <p>And firſt, were ſuch a thing probable, as I am confident it is impoſſible without a
+Miracle from the Almighty, for no<g ref="char:EOLhyphen"/>thing is impoſſible to God; yet how many are cut off by
+ſome ſudden accident, that have not ſo much time allowed them to ſpeak theſe words, I
+leave any reaſonable man to judge: I could give you ſeveral examples in theſe Caſes, for I
+perceive Example is more prevalent than Argument, but let this one ſuffice. No longer ſince
+than the 3. of <hi>October,</hi> 1679. a Gen<g ref="char:EOLhyphen"/>tleman, who had been a very debauch'd liver, being
+viewing his Buildings in <hi>Exeter,</hi> ſware very much at the neglect of his Workmen, when the
+Scaffold immediately fell, without any harm to any excepting himſelf, who was knock'd on the head
+with an Oath in his mouth, not having any the leaſt time allowed him to call upon God for mercy.
+Beſides, conſider there is but one way to come into the world, and a thouſand to go out of
+the ſame; and ſhall any man, except ſuch a damned Wretch as my ſelf, ever truſt his
+Salvation on ſo ſmall a Thread? Pray conſider but onely this, If you were at a great and
+Princely Banquet, and had all the Varieties either Art or Nature could deviſe, and at the ſame
+time directly over your head ſhould hang a Sword by a ſmall twined Thread, pray what appetite
+could you have to your Victuals? Thus it hath been hitherto with you through my damnable
+perſwaſions, I have hitherto prompted and put you forward to ſuch notorious evils, which I
+knew in my own Conſcience would prove damn<g ref="char:EOLhyphen"/>able to all who exerciſed the ſame; and you, poor
+Souls, through blind zeal, devotion, or pleaſure, never refuſed to follow my inſtructions;
+yet never<g ref="char:punc">▪</g> ſaw the Sword of Gods eternal wrath, which hung, and will hang continually over
+your heads, as long as you continue thoſe wretched courſes,
+<pb n="4" facs="tcp:59352:4"/>
+by me tolerated and preſcribed. As for the former ſort of Per<g ref="char:EOLhyphen"/>ſons who conceive it enough to
+cry, <hi>Lord have mercy upon me</hi> at the laſt gaſp, let me tell them my ſelf, who at this
+inſtant have more time to repent than poſſibly they may ever have, yet find it ſo hard a
+thing to do the ſame as I ought, that I fear God Almighty hath ſo hardned my heart, that I
+cannot call upon him as I would, or fear and love him either as I ought or ſhould; and if I, poor
+miſerable Wretch as I am, have time, yet not grace allowed me for repentance, what can ſuch
+ex<g ref="char:EOLhyphen"/>pect who die with an Oath in their mouths, as the perſons above ſpecified; or in drink, as
+is too frequently ſeen? But having a ſmall time to live, and finding approaching death draw
+ſo near as to ſtare me in the face, I ſhall devote the remainder of my ſmall ſpan of time
+now left me to the honour of Almighty God, and preſervation of the lives and ſouls of ſuch of
+my Countrey-men and Congregation, whom I have any ways per<g ref="char:EOLhyphen"/>verted by my falſe Doctrine, or
+deluded by my erroneous and Heretical opinion.</p>
+            <p>And firſt let me apply my ſelf, (as briefly as my ſmall ſpace of Life will admit me) to
+ſuch Perſons who are Teachers of falſe Doctrine, Hereſie and Schiſm: Let me inform
+ſuch; for ſuch, I am very confident are, (and will be to the end of the World) do not only
+render themſelves accountable for their own ſins, but likewiſe for the ſins of all ſuch
+People, who by them are ſeduced. But, pray Beloved, miſtake not the Words of a Man, who, in a
+manner, hath both Feet in the Grave: Not that their anſwering for thoſe they ſeduce, ſhall
+acquit the Perſons ſeduced, but that they both ſhall joyntly ſuffer for their Offence,
+according to the reſpective nature of the Crimes by them committed. For on the one hand, as
+certainly as the Teacher of falſe Doctrine ſhall be accountable for the Souls of all Perſons
+by him ſeduced, ſo on the other ſide, all ſuch ſedu<g ref="char:EOLhyphen"/>ced Perſons ſhall be ſevere
+Sufferers, for not trying the Scrip<g ref="char:EOLhyphen"/>tures,
+<pb n="5" facs="tcp:59352:4"/>
+and ſearching out the difference between Truth and Falſhood, according to their reſpective
+Abilities; for where God gives a Talent, he requires the ſame with Intereſt, and not like the
+ſloathful Servant, that we ſhould wrap the ſame up in a Napkin, and then tax him for a hard
+Maſter. I muſt confeſs, for my own particular part, had I imployed the Ta<g ref="char:EOLhyphen"/>lent of that
+Knowledge God had given me, to a right uſe, I had not now groaned under the remarkable Judgement
+of the Curſe of the omnipotent God. Therefore, once more, if dying Mens Words have any operation
+upon living Perſons, let me requeſt, and with bleeding Eyes beſeech you, as ever you hope to
+eſcape thoſe eternal Torments I expect to ſuffer, Never teach falſe Doctrine; I ſpeak
+this to all Perſons of new fangled Opinions in general, and likewiſe to all Perſons in
+particular, who are or may be Auditors of ſuch Seducers, That they never receive any fundamental
+Alteration in their Religion, until they have firſt tryed the ſame by the Touch-ſtone of
+Religion, which is God's Word: For ſince our Saviour hath ſaid, <hi>The latter days ſhall be
+full of Deceivers,</hi> of which I muſt confeſs my ſelf Chief, it certainly behoves every
+rational Man, in ſo grand a Concern as this is, to beware how they are cheated of their eternal
+Happineſs. Secondly, Let no Man whatever run on in a wicked courſe of Life, in hopes of eternal
+Happineſs at the hour of Death. I muſt confeſs, we have one Example, and but one Example that
+I know of in all the Scripture, of a Perſon who obtained Salvation at the hour of Death, and that
+was the poor penitent Thief on the Croſs; which was only to keep us from Deſpair, rather than
+to prompt us to Preſumption, by caſting all our hopes on the laſt breath of Life. God
+Al<g ref="char:EOLhyphen"/>mighty under the Law requires the firſt-fruits of our Ground, which made <hi>Abel</hi>'s
+Sacrifice more acceptable than <hi>Cain</hi>'s; whereas under the Goſpel, he requires the firſt
+fruits of our Hearts, and the ſervice of our green Years: And had I for my
+<pb n="6" facs="tcp:59352:5" rendition="simple:additions"/>
+own particular part, ſerved him, then I had never come to this deplorable Condition now; and I
+hope this my lamentable Example will deter both Young and Old, for ever walking in my
+Foot-ſteps.</p>
+            <p>But to conclude: <hi>Solomon</hi> ſays, <hi>A Man may ſustain his infir<g ref="char:EOLhyphen"/>mities, but a
+wounded ſpirit who can bear it?</hi> Such is the wretch<g ref="char:EOLhyphen"/>ed miſery of my preſent deplorable
+Condition, that I now not only groan, but abſolutely periſh under this Heart piercing
+Ca<g ref="char:EOLhyphen"/>lamity. None but <hi>Francis Spira,</hi> and ſuch a Wretch as my ſelf, ever felt ſuch
+pangs of Conſcience as I now feel: Hell gapes for me; the Devils are ready to torment me to all
+eter<g ref="char:EOLhyphen"/>nity; the holy Angels laugh at me; the bleſſed God mocks at my Calamity; yet ſuch is the
+divine Influence of his bleſſed Spirit, that he compels me poor damned Wretch to preach
+Sal<g ref="char:EOLhyphen"/>vation to others, who never expect Salvation my ſelf. But ſince the Devils themſelves
+have done the like, it cannot be conceived ſtrange of me. I may, nay I can ſay, I put my
+truſt in the Hands of Almighty God, yet cannot I believe he will ſave me, ſuch is the
+miſerable hardneſs of my rocky Heart; I ſigh, I groan, I die, I languiſh, I periſh, yet
+without any re<g ref="char:EOLhyphen"/>medy. Let it once for all ſuffice, and I hope Almighty God will ſay
+<hi>Amen</hi> to my humble and hearty Soul-ſaving Requeſt, That <hi>Muggleton</hi>'s Example
+may preſerve Thouſands of Souls from Hell: For although I conceive my ſelf juſtly delivered
+up to a reprobate Senſe, yet it is the deſire of my Soul, other Per<g ref="char:EOLhyphen"/>ſons may take Example by
+my damnable Fall, and ſhun all falſe Doctrine, as they expect Happineſs either in this World,
+or the World to come. My Breath now fa'ls me; I can ſay no more but this, The God above knows,
+that the dying Words of the Unfortunate <hi>Muggleton,</hi> declare more Truth, and give more
+Chriſtian Inſtruction, than the correcteſt Copies of the moſt eminent Jeſuits; and how
+that ſhames their Profeſſion, let the World judge.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59352:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
